@@ -1,4 +1,5 @@
-## Hi there 👋
+## Welcome to kenpoly business orbit
+## Meet different business men and women between kenpoly 
 
 <!--
 **bigjoe909/bigjoe909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
